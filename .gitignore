@@ -1,6 +1,12 @@
+# Dipendenze
 node_modules/
 client/node_modules/
 server/node_modules/
+
+# Build e Log
 client/dist/
-.DS_Store
 *.log
+.DS_Store
+
+# Dati locali (opzionale, se vuoi che i correttori vedano un DB pulito)
+server/data/posts.json

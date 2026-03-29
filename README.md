@@ -59,4 +59,4 @@ cd client && npm run dev
 ---
 
 ## 👤 Autore
-- **Plebaa**
+- **plebaa**
